@@ -1,0 +1,265 @@
+@charset "utf-8";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/007/686/427/non_2x/seamless-pizza-pattern-black-and-white-pizza-background-doodle-pizza-illustration-fast-food-pattern-free-vector.jpg);
+}
+
+.ester{
+    margin-left: 30px;
+}
+
+.texto h2{
+    margin-left: 30px;
+    color: rgb(255, 230, 0);
+}
+
+.texto h1{
+    color: rgb(255, 0, 0);
+}
+
+.desconto{
+    background-color: orangered;
+    height: 140px;
+    width: 140px;
+    font-size: 18px;
+}
+
+.desconto h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    width: 150px;
+}
+
+.flex{
+    display: flex;
+}
+
+
+.main-header{
+    display: flex;
+    display: inline-flex;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    color: aliceblue;
+}
+
+.desconto{
+    margin-left: 30px;
+}
+
+
+h3{
+    margin-top: 10px;
+    padding: 10px;
+    background-color: rgb(42, 172, 38);
+    margin-top: 4px;
+    padding-top: 10px;
+}
+
+.atlas img{
+    margin-left: 30px;
+    height: 90px;
+    margin-top: 30px;
+}
+
+.cardapio {
+    margin-top: 20px;
+}
+
+.cardapio h2{
+    margin-top: 30px;
+    
+}
+
+.flex{
+    display: flex;
+}
+
+
+img{
+    height: 30px;
+}
+
+.bode{
+    margin-left: 30px;
+}
+
+.cardapio{
+    background-color: black;
+    height: 1200px;
+}
+
+
+.bode img{
+    margin-top: 30px;
+}
+
+.bode h2{
+    margin-top: -0px;
+
+}
+
+.lib h4{
+    padding-top: 20px;
+    margin-left:160px;
+}
+
+#z, #z1, #z2, #z3, #z4{
+    height: 30px;
+    margin-top: 20px;
+    background-color: rgb(255, 255, 255);
+   margin-left: 10px;
+    border: none;
+    border-radius: 3px;
+}
+
+#dd{
+   
+    width: 200px;
+    margin-left: 47px;
+    margin-top: 30px;
+
+}
+
+h1{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+
+
+
+.form {
+    background-color: rgb(0, 0, 0);
+ display: flex;
+ flex-direction: row;
+ margin-top: 8%;
+
+}
+
+
+
+
+
+
+
+.formb{
+ 
+    margin-top: 30px;
+    background-image: url(https://static.vecteezy.com/ti/fotos-gratis/p2/27540380-calabresa-pizza-com-fumaca-chegando-fora-do-isto-em-uma-preto-fundo-ai-generativo-gratis-foto.jpeg);
+    margin-top: 30px;
+    margin-left: -140px;
+    width: 400px;
+    height: 40px;
+
+}
+
+
+
+#s1, #s2, #s3, #tt{
+    height: 30px;
+    margin-top: 20px;
+    background-color: #ffffff;
+   margin-left: 10px;
+    border: none;
+    border-radius: 2px;
+    display: flex;
+    flex-direction: column;
+}
+
+.gg{
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpoCpzvAWAGuXJQRN8p0RTmXbTuhGcZQQBZw&s);
+    margin-top: 300px;
+    background-repeat: no-repeat;
+    margin-left: -140px;
+    width: 400px;
+}
+
+
+
+
+
+
+
+#box{
+     
+    background-color: rgb(255, 0, 0);
+      position: absolute;
+      top: 50%;
+      margin-top: -90PX;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-size: 19PX;
+  } 
+
+
+
+
+#boxb {
+    position: absolute;
+    top: 50%;
+    margin-top: -90px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 19px;
+    transition: transform 0.5s ease;
+}
+
+#box:hover {
+    transform: translate(-50%, -55%);
+}
+
+#er{
+    margin-top: 30px;
+}
+
+#er{
+    margin-left: -300px;
+}
+
+.rodape{
+    border-radius: 3px;
+    color: #ffffff;
+    background-color: #8f8f8f;
+    height: 320px;
+    margin-top: 300px;
+}
+
+.rodape h3{
+  
+    background-color: #4d4d4d;
+
+}
+
+.rodape h4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+    margin-left: 40px;
+}
+
+.rodape img{
+    margin-left: 30px;
+    height: 90px;
+    margin-top: 30px;
+}
+
+footer{
+    background-color: #8f8f8f;
+    color: black;
+}
